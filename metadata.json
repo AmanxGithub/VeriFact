@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VeriFact",
+  "description": "A professional fact-checking tool powered by Gemini 2.5 and Google Search to validate statements with real-time sources.",
+  "requestFramePermissions": []
+}
